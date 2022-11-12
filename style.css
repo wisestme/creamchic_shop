@@ -5,4 +5,32 @@ button:focus {
   box-shadow: none;
 }
 
+.font-baloo {
+  font-family: "Baloo Thambi 2", cursive;
+}
+
+.font-raleway {
+  font-family: "Raleway", cursive;
+}
+
+.font-rubik {
+  font-family: "Rubik", cursive;
+}
+
+.font-size-12 {
+  font-size: 12px;
+}
+
+.font-size-14 {
+  font-size: 14px;
+}
+
+.font-size-16 {
+  font-size: 12px;
+}
+
+.font-size-20 {
+  font-size: 12px;
+}
+
 /*# sourceMappingURL=style.css.map */
