@@ -33,4 +33,28 @@ button:focus {
   font-size: 12px;
 }
 
+.color-primary {
+  color: #003859;
+}
+
+.color-primary-bg {
+  background: #003859;
+}
+
+.color-secondary {
+  color: #00A5C4;
+}
+
+.color-secondary-bg {
+  background: #00A5C4;
+}
+
+.color-accent {
+  color: #ffd289;
+}
+
+.color-accent-bg {
+  background: #ffd289;
+}
+
 /*# sourceMappingURL=style.css.map */
